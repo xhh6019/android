@@ -1,0 +1,4 @@
+
+[Java Feature]
+
+FEATURE_EMAIL_DELETE_PROMPT = yes
